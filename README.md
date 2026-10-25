@@ -1,0 +1,1 @@
+Flight price predictio is a machine learnig project that predict flight ticket prices based on different  flight related features. It uses a Random  forest  regressor to estimate ticket prices and a streamlit web application to provide an interactive user interface for prediction. 
